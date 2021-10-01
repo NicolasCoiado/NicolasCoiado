@@ -45,7 +45,7 @@
   
 <div align="center">
   
-## 💻 Tecnologias que utilizo:
+## 💻 Tecnologias que mais utilizo:
    <a>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
   </a>
@@ -56,9 +56,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
   </a>
   <a>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank">
-  </a>
-  <a>
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" target="_blank">
   </a>
   <a>
@@ -67,7 +64,8 @@
   <a>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
   </a>
-   <a>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
+  <a>
+    <img src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white" target="_blank">
   </a>
+   
 </div>
