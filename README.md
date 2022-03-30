@@ -1,7 +1,7 @@
 ## 👋 *Hello World*, eu sou o Nicolas!<br />
 
 ### 📝 Resumão sobre mim:
-🌟 17 anos. <br />
+🌟 18 anos. <br />
 ✝️ Cristão.  <br />
 💙 Front-end. <br />
 📚 Técnico em **Desenvolvimento de Sistemas**. <br />
