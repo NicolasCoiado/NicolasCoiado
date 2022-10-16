@@ -2,9 +2,9 @@
 
 ### 📝 Resumão sobre mim:
 🌟 18 anos. <br />
-✝️ Cristão.  <br />
 💙 Front-end. <br />
 📚 Técnico em **Desenvolvimento de Sistemas**. <br />
+✝️
 
 <div align="center">
   
@@ -16,33 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCoiado&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br />
-  
-<div align="center">
-    
-## 📳 Sobre mim:
-  
-  <a href="https://www.instagram.com/nicolas.coiado/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
- 	<a href="https://www.facebook.com/nicolas.mauricio.77/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
-  </a> 
-  <a href = "mailto:nicolascoiado03@hotmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/nicolas-mauricio-7604b7198/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-<a href="https://br.pinterest.com/nicolascoiado/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.behance.net/nicolascoiado" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
-  </a>
-</div>
-  
-<br />
-  
+
 <div align="center">
   
 ## 💻 Tecnologias que mais utilizo:
@@ -69,3 +43,28 @@
   </a>
    
 </div>
+
+<div align="center">
+    
+## 📳 Onde me encontrar?:
+  
+  <a href="https://www.instagram.com/nicolas.coiado/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+ 	<a href="https://www.facebook.com/nicolas.mauricio.77/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
+  </a> 
+  <a href = "mailto:nicolascoiado03@hotmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/nicolas-mauricio-7604b7198/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+<a href="https://br.pinterest.com/nicolascoiado/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.behance.net/nicolascoiado" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
+  </a>
+</div>
+<br />
