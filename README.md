@@ -5,7 +5,6 @@
 * Front-end.
 * Técnico em **desenvolvimento de sistemas**.
 * Cursando **ciência da computação**.
-* *"Do papiro ao código, sempre a seu serviço †"*
   
 # :game_die: Dados :
 <br />
