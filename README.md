@@ -1,7 +1,7 @@
 ## *Hello World*, eu sou o Nicolas!<br />
 
 ### 📝 Resumão sobre mim:
-* 18 anos.
+* 19 anos.
 * Front-end.
 * Técnico em **desenvolvimento de sistemas**.
 * Cursando **ciência da computação**.
