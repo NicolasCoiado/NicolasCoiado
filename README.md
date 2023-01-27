@@ -1,60 +1,27 @@
-## *Hello World*, eu sou o Nicolas!<br />
+![OlÁ MUNDO](https://lh3.googleusercontent.com/x3Niq2nkQvPjDOEADv_2DSdJKQwXd9QAOuhlU_9aWMBwnPFZ_jkB8V1i-_lOwqtio_IVsGntmK9hVSkQmc6jZJ-w27Ik25CFRkkgnD_Bztp1llGJB0atK5WRX2Qr52L4Nlx6uNUsoH4Sh-wmcDYqjtviUXNrMkK1q0kujjOeye1FbllS2VydD-8pDB1Dg_fNSO5XFF7b9D3Lc8ASX-HvjXq-CI6plxuvKtg6q_pFemfRXuZLJ94rMn2btK6TlZo1rYzfeDeEm0JmDhb5FhiZdGYhcCyv3Q3NVLUrrejHdgZbVb7HowBuT5X2jBFmAVVYMjshdUIWZ0ivC8616LfQIS6c63T5BvwZTRAkREDAfcsRbEEQdxv_aoj-inQ7lrKn1n3056e2zmtAT68cuEl_ivSRGEAZX5rCNJPToi4p4e-EOJRMGHO4V9SUmltiYQ0jYBSjcrDFX1QEsXwVd0Jpzo3K2ORHmXo2jKD-v3CsVZ_ZK50VZHHZpUNkj8nHCH7MnxSpaKPl9W6yxMTMWvsxDGlRTsKosj49S4VDDY_n8tsicjSWueOq9oqVpi4EwUIpkOcu5oJce049xhV8zq6bfGvfJa5EjKvUWVxSLfALgz_tGO-tCp5_UK2lasnvzjgOJamnHzdPW2KpF_rTjcLSZfVBXY8iZc0OJWldljHAhXZB7UZ8lI20S9AIX2Sa_njEh27Xlq70eWG8cSDzLtos09hB2GOiMHItROq2nKFrf0XFiOkJUTrqmBvAiqaHSNQ2YsLvDTpnTl2aHovGyN0H287aB4_M8TOI1wrXGvhoI8b9LTWcJB-18JW6j94DNOLtKfIFU8wQb_mwvcl_vNoFfRLMaVWot1jO2bnQB7FVC51EQ7FBQ6Vb3MVSpWQF-7yPUmH6U3gn7mm8O5xVeniIs92dPjbQxYwh9TdzF8cIigMRI9t2Ng=w800-h100-no?authuser=0)
 
-### 📝 Resumão sobre mim:
-* 19 anos.
-* Técnico em **desenvolvimento de sistemas**.
-* Cursando **ciência da computação**.
-  
-# :game_die: Dados :
-<br />
-
-  <a href="https://github.com/NicolasCoiado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasCoiado&show_icons=false&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCoiado&layout=compact&langs_count=7&theme=react"/>
-
-<br />
+# Eu sou Nicolas :)
 
 
-  
-## 💻 Tecnologias que simpatizo:
-  <div style="diplay: flex">
-     <a>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
-    </a>
-     <a>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" target="_blank">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
-    </a>
-    <a>
-      <img src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white" target="_blank">
-    </a>
-  </div>
+Tenho 19 anos.
 
-## 📳 Onde me encontrar?:
-  
-  <a href="https://www.linkedin.com/in/nicolas-mauricio-7604b7198/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="https://www.behance.net/nicolascoiado" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/nicolas.coiado/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
- 	<a href="https://www.facebook.com/nicolas.mauricio.77/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
-  </a> 
-  <a href = "mailto:nicolascoiado03@hotmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+Sou técnico em **desenvolvimento de sitemas**.
+
+E estou cursando **ciência da computação**.
+
+---
+## Espero que meus códigos sejam úteis para você.
+---
+
+# As linguagens que mais utilizo: 
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCoiado&hide_title=true&&card_width=800px)](https://github.com/anuraghazra/github-readme-stats)
+
+# Onde me encontrar?
+
+[![Facebook](https://lh3.googleusercontent.com/yewSTgnnqbx65FBagNuBaNxmJjdaf0gllsxJLPMSRXPKnwq2LgUoLH5XyW9tH9kpsGr3i-FTKnPtbB_oRb35XRL0mrUP5qfefqgESw5gVddT18xRnVt053sEoWbiGhnOhU23elZQyG823EqWvNE7tfL-YT3iPwYigZ9BIHNa557pX_cxxHrVUh1rrPoBvzjWq5-iLl2q-UfGexN3RpRJeKNwxOiMPjYUnCgsjqlDkY-Nq9UFkKmL3ChjwF-EA7jwzOzguYD5n4NeKeyl-HzJnbvkdOTOLcoI_BD4ILqzN0m9OqG8pOiIr14mTmgyc4boNtnOHikxgpBBj7FOS3XjxXZl6cCmIq6UEUL_q4n5TSg52zEPMAgmlgcUzEwrlv8vQQKdeE8VVYltRuNgO-zUJWx08a7xTd0h0Q2OLG7Py6ROm7nGg-YEz8wHl45c48InJp9AJbbXuaYNneJw_M_XZ-4_aJPRVAy8fh32uhU-NCyA9Yo1TVh4xifBM-G6gjt_cTFy5QD3XiKWCIfOKGtsx6nIX2_1kk0EctpXVF0Q0kYbjuZ0x5c0-yWO3h9QsUrEL1pm20cEvHqmCY1SaYyKdaw4FvbfakOPyjgorAvqwrlJBeQLTHcZB46RrTMkonAb-bhaRqC1590J_26UBQJYXZ8htzjlnVg1Oby4tesvLTnEnRzaZCSOmb3wRC_VbuchZQXSsZpxg_ljKeX3IseoETQfdvpwGqpaqbrYhFRKiM7hpo-nqcShOZW7ItADcUWeoZ34xY29TqSd1bmi3eWdrPqjIkCSACP0VtxIma99wibA38QI5Jc0DUOrJbgXrafFYPTgqr0VAu0FZ2sBJMRiWtnXkcDX3sTMIlutfUMtBXnLS9Z2qKT_DOCnhIkIrOdaI-nLMhT6xOAaIiKsggTGz07TuPR4T6HY5JGDuvWt8ruaDQ1nmw=w250-h80-no?authuser=0)](https://www.facebook.com/nicolas.mauricio.77/)
+[![Instagram](https://lh3.googleusercontent.com/tBy1ZjEeYionhkCSiynxdvPn5dauJ-9725wTZnkfudJhzGwwM5bQqpag6w2_MWjnu3SQ8xHEo9lvOOP9Eom00KD8LJ8_P3m5U7PDwrHaOkeW0SVDlm_-DlOACnuYySzS0gaGUlYiOYANgd47zpu0GFQAAIWsRmxTcQufJRiHwHBkAjGeNLDqoed_4qdYkhW5-e0OfGWyV1vL3LkS1x6au1aJpLTkneF3aFpR4BLKDGe0z1lPBb4dA1vdOtQxvPWtDijFHl4pZgwdXOtysMf32fCGxLSuwjElwUrMTruGGaM0_3tzZHAt6hozSGMrFxfpZhJMahKbDt8VsEalhcdVjyXajUNibFzaKdkcDU8RoqIIEtsh0Tmqmy9QS4yd0oYnSOL-GCQQYn7e472Csufa104mQsRp20M4hp8bCQtLLMsmC3Y4oJjErvVmYbK5gMZtI4fr37dhuf0NU1xCuY-NRRDZa_EnsFEuuyCQTA0xcph-aGlxwhEf3GIsDn1NsQDVFFk67gnizo6MZe42fx2x0XE67qaByvqQtWOiHKYKbCZvZ6lN8k0GT1kiTBOLyOFmBWGeB3Og3Zohmyy9K-tSpJrs2-jQCP7ISsmOUyVKf_LRs7_hvUYK-3AIfVtDqkO5IfUMLoQ5WPS8q6AEJxuGrGuoBG9YaXykmwpLK1iutvrdj3Ed72pVhSmxCJMoeDRYRfSNBXzI2hx_LHyrilXACt1b8Yt2NYtuq_MeDLO6PvMuaS0yf7d9joKp_f0j-8JD-u2qfMBKg-vt2ElM-O2-aS5kCjJNWADzsg00-5ms4Qu7MW5EUG4bG8_FD8alG-qIaU1zMUTwsYj1bjh8ZNhCRAbQSb203bdlusWrFfPCxXjy6mbhX2DsD3B2OHLI_d1LwGdY9ndvfB4Jd9ThAPSCryHfim8kEzZk34ObXg6S0eVIMRXqLA=w250-h80-no?authuser=0)](https://www.instagram.com/nicolas.coiado/)
+[![Twitter](https://lh3.googleusercontent.com/z53lz5UeS0XDdTxQE1TeHF6fACe7ei7dWGVw9yuDUBxk-OAO8G6S-Tvy047IxCzwXhJvQpBV0dPR7aIfW_EYikVhJiCxEY_vQOxlDhQIlHXV0eRvcVhRQU3Kcql6D6MRK8fBOQ3BoA0lNpYTDYNagdNJ5byF9gmlTCIp0QEna7nRjHeAhL3hSVKFlT-jhEUl2hH_ZHJzRbazJDAPzAJw-lp9BDj-Y297Oix1bJu06-MuyuoHl_l-9HTJvpsSKplqZM3MHApQFsswww2_gDWb-9i1ZF29AY2-pLgqcjCKtCag5xSy2-Q_GsCSumT-O_6cydN973G1yXjQPkhBowhv2xXasbA1aZC9hE-kDfc4yEbDNmKnZJ4eK0_8VAmFDSMhUuCKYT-hkzItp_6H-BA3FxcGBp-XpCX8XCHEtIH7k_C9KpYQWlY4AkMOL8tBJ4lgSMTM3GslClYzlfH_GEPMg7e27eI-XcDPWCUkwo7bSI2_GbbqZaH9iGfHdzjWsokUvRVdk1GLIEN81cJ5ue5ZyUTKn0Npj3NKN7FMC6h4vTYnO6rzUWftLzqHn_HTMdXjXsqniFXHniLzcJc3VU5_iuixmdlEgcK8XDlCxBR_WRxQ7cUEyybqYMQveUJTeHyZpw8qWj2yT2DarZb71dabZ9KqtXAB7wIh2xuHyiEn3DllhBFJmME6jEMVzyRcBr2KIkSQpF45cYOnoq7ijp0HY6eqXvX9UeJoB3QySNyL_4twkqPMm5e7GH8Pr8gFEGdDY4POSEa4PmHO4ug-tNYrAXs3eng05JubNCOsGKKGplDppFZHTjJY-sQfmCc75oqMOl66ZJd7iddd8krhnMrEkM57N5IBUYQvSUDUnQoEPRpWKGJNQQy8s0lwYgalehXeJM1YKkJRB38xWGBvh-eJzF_wYoTTYZgm33YCheQhdI-yr4ZuQQ=w250-h80-no?authuser=0)](https://twitter.com/nicolas_coiado)
+
+[![Behance](https://lh3.googleusercontent.com/bdKTNwXBTTwxMyLw4vovzRH9427prj4j_Z5h8WmSmmhScqcl6hk3slqZ2UpcdqhL5BERzl1BUQ4VW7gZszSRGILS32cIzYy8uatntUalh_C8OVAVSmfWRnYyLODC6p5wtXUfvqBNIF-qat0IQ-OOW-wdoPYkMU8NJe9Oav1bkM-19kb4ClCBFTuOBV1nsKU5PimV-5AFa7iZkHq_KIpX6300CfjfOkLdP3IGXyIonCFHoElbumi_Uvd8yy1t7acggdyg90x4jbBS7dRxrFFoJGNUQKVcOICMMOp1IKswE78hIjYhqXwkLkgu7SpmD39c8re5pgoAweZ5x6V6PqfGazqZ4yJY9nqIcJCQn5XqJ7XBWB8-ofK6rW-gmqcFro8omMtVxKqCsWMghOl2U6YplAa9aucKnIgv-1Q3IgZAPGjPN18mjcKGKfV3TEO3rsbyPyTyoPebc9hLCmCYRUaOjyC2jiKugRmqQgG4awyicWy3sSgIBtU3f6KJsV_NCkoua9FvP77S6GM9zwcSRfN0BMdu3rgvR7XfqD1VS_Pjdmj903AbU7g7kWl2mMyy6dLyILCp71iCQ_Bb7VaCU77v0ftmprKj9nGyxS5bAb0dsXBjek0ryFlDNzWcmOrlZ3yuGQrzhGzHNbnBHBowptWaoMSmu_l3T9GmTEv2Z6vIgXmBu0qmPRT8AxtIRshKNN0oDg2ztW9jBtdx1eyuhFDBbpSY9-MjR774V9gtd1xXxuG79xo31WTrdTgjlN6Ufl1BrfPAexooQ7R5YC3wgprMYQWj1a2wg_wIWNcpI51cgIJ78X-UDkGW2nU7EeXw6J23bTdDXIla33NSGo6c50EN36f9mlhsxHGx_YYs4pqRBTrTauRC4yRXi6R49j5tRZx5kFWa9wc2iYHhWB6Qu_Fj1FNU-7YpJKfObWrd-iBEKuDvEjGUMg=w250-h80-no?authuser=0)](https://www.behance.net/nicolascoiado)
+[![Linkedin](https://lh3.googleusercontent.com/FwqWIFyg9dTYhf2FOuPQB8usX5U9CAmUKnt9qwRfjjzKxQZkgacuoN1sOaA9YqrT2cxg4FvRLcMybQLz2MWVJysNM2b2ZiwxhTr1hlVaCuSRhe6tGjHi6StZOKuQlWoCP3lzciNzF_hsTfsY9vPGT0w76qjATcVPQg5r9sB1qD7Y4F29nFdP210mWOzTCeMjz30rDRpjxUC-M_9kQ6fS0g2vAJxI-RnlNMFMJBbcixuCN1aJ9acllFN4sgVzvcgU9VHVFKXOHpyMAbv1Ev_2qo4-k2JvAayTdWgaT-Y5FN4_IyMweWSGhTgN-JNqmceM29-D4-UyI1cjafL5oN1ZflVuEgcxNdJQ9HVjkENL-E6Gw0rz00KKSF3ueKlH35yDzapS5OvbWdiQeZLcsS6M62brZMyIIgRlQDCo0M4tpwf0KQ4ExHtH94fgo2y6iBES6aTG2mJhrGEmqcv_EQgzPUsOS1xNpKBpCD9cGGLTodyXaZsoe9YRz1IOEUDlO8DxWwTSHtp8hs-B0XlFON_XdJ2YIecanXg65XH0X-KXPtvOJdcQtplnDwfXEx1NKdo_IrmYthErLC_y8cZXOGJcWqxbATL2-o4wImUKWakQYR_05rtNUEVUeYIGcYC_QTurYgad7LgilIwSg2rt1aEyFtk5Z3oYfoL8IAxp-k0JG-aA7qCby-klfu-QwrZ_qCaablMIzABKTuqg5MR6LK6rpSClBxbsHZ2VI34aC8BlPqkl76xgHeEXZCdDBaECEa-oBBt2tgzbAQ008ac-3FF2qZbnSb0it4a6EGOiwdi9qRydS3O1h21p4mqlaUD1CG-czVGJeherS1CYY8yi1sbNMhSsE1S3g-tBcortVERAYwAznW3qMQ73mKvJhJYQfjoFQPTECKG0QQoh0sOxrg2gcB9AsFX72whgtiaCE_YpTBai5BEJ7w=w250-h80-no?authuser=0)](https://www.linkedin.com/in/nicolascoiado/)
+<a href="mailto: nicolascoiado03@hotmail.com"> <img src="https://lh3.googleusercontent.com/7u_BKMaWabAhv2trRvp2oWduNJlZu22JgoeSttzRhsSXXSgFUbaOtzsm7XtcbjdWsu6_SzAPNi4Fx_wgMEZfa3YPS0oyGJKzTinMW9FyaR085IyY1L5lG0ySmp3gaRFrC83yfTnH7O0Txfl_7rQeeiwB2BnBpJhy4E558Kn1CaiW2RrnJsrOZpitOmNOAIM1LeTS2AVcjWXCu_Nijjt6_o9Q1WDPXCxdGPPecUUgs4L6uggLtsDVzznqT54oooIaBxdtbE14JdSYXlMyOhhLK-qsyR_OikcQizi_1cOV3zNQBtliK6_r4bneGh_TCVfVFMEEkakcbtbg3yFQhzm5ogjRLQio-XhGGPydZhCorm4sJ1rh-YIpRemh8admaKB0ti-TQ2uaPkknEn8fmA5vUMplYHrSjzg4QoKBnPQ888Z6Xtt2-17PlzKvuadGna8YUWtg7cfS7mZMC6rf-dvSx9dXiau7151tQFRMwzFGZc1Ex1H5reKFnq-tvjpF3208ZHxwxtpni2IDDVajYQQCwqKlh2Kr9tKFbGtf-o7Qoxq5T5y5F-HcWr7fjlSsJYQ7Tz4oDmFGb2urOfwNhCE99z5ffjvHEBX45WD3earNUr78ngTlrNLSFiBVhOipog_jqRwMNDYjanIoZ9XDL3QyeIm6ymwcaI4juGVcAoCUORNJ5NJNERdYoRD9Wz-X4qVy4bniMWSiKB6m2eD6p1R1Z1jsIyI2rxb0PR1aLrmH49aSc0-Ko1Quhg2Qtp35G5C-gta8pDyTCm-7-A2Gn1BonuV3v6AEAiZgpWPQvRkrhV7go5YdeBv4viJdMXuLJoUfc_P40HB-MPAARPohB4yX5XDeN87VlsetvSHddonp0giCIoaiUtIVT5T4-BmWsIEx8j6lm3OrYoeFzHKy08pFEzPVcC_zJ8Se6lRhP0pPq6bnoaayOw=w250-h80-no?authuser=0" alt="Email"></a>
