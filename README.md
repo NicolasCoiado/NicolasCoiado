@@ -10,7 +10,7 @@ Sou técnico em **desenvolvimento de sitemas**.
 Estou cursando **ciência da computação**.
 
 ---
-## Espero que meus códigos sejam úteis para você.
+## `<h2>Espero que meus códigos sejam úteis para você.</h2>`
 ---
 
 # As linguagens que mais utilizo: 
