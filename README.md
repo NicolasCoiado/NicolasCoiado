@@ -5,9 +5,9 @@
 
 Tenho 20 anos.
 
-Sou técnico em **desenvolvimento de sitemas**.
-
 Estou cursando **ciência da computação**.
+
+Sou técnico em **desenvolvimento de sitemas**.
 
 ---
 ## `<h2>Espero que meus códigos sejam úteis para você.</h2>`
